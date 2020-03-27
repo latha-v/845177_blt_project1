@@ -3,11 +3,11 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Test_Cases.Search"/>
-      <class name="Test_Cases.Invalid_Serch"/>
-      <class name="Test_Cases.Checking_products"/>
-      <class name="Test_Cases.Checking_product_count"/>
-      <class name="Test_Cases.Support_through_contactus"/>
+      <class name="yourloga_Test_Cases.ValidSearch"/>
+      <class name="yourloga_Test_Cases.InvalidSerch"/>
+      <class name="yourloga_Test_Cases.CheckingProducts"/>
+      <class name="yourloga_Test_Cases.CheckingCartproductsCount"/>
+      <class name="yourloga_Test_Cases.SupportThroughContactUs"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
